@@ -7,7 +7,7 @@
     <output href="webhelp-output"/>
     <publication transtype="webhelp-responsive"/>
   </deliverable>
-  <deliverable name="Garage to PDF-CSS" id="pdf-css">
+  <deliverable name="Garage to PDF-CSS" id="pdf">
   <context name="">
     <input href="garage.ditamap"/>
   </context>
