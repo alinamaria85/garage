@@ -18,7 +18,7 @@
   <deliverable id="Garage to PDF 2-2" name="Garage to PDF 2">
     <context idref="garage"/>
     <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
+    <publication idref="pdf"/>
   </deliverable>
   <deliverable id="Garage to WebHelp 2-3" name="Garage to WebHelp 2">
     <context idref="garage"/>
