@@ -20,4 +20,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="deliverable_name_with_spaces-11" name="deliverable name with spaces">
+    <context idref="garage"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
