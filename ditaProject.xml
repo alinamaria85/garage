@@ -5,29 +5,4 @@
   </context>
   <publication id="webhelp" transtype="webhelp-responsive"/>
   <publication id="pdf" transtype="pdf-css-html5"/>
-  <deliverable id="webhelp" name="Garage to Webhelp">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="pdf" name="Garage to PDF-CSS">
-    <context idref="garage"/>
-    <output href="pdf-output"/>
-    <publication idref="pdf"/>
-  </deliverable>
-  <deliverable id="deliverable_name_with_spaces-10" name="deliverable name with spaces">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="deliverable_name_with_spaces-11" name="deliverable name with spaces">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="deliverable_with_a_very_very_very_very_very_very_very_very_very_very_very_very_very_very_very_very_very_very_very_very_long_name-12" name="deliverable with a very very very very very very very very very very very very very very very very very very very very long name">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
 </project>
