@@ -25,11 +25,6 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
-  <deliverable id="test-9" name="test">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
   <deliverable id="deliverable_name_with_spaces-10" name="deliverable name with spaces">
     <context idref="garage"/>
     <output href="webhelp-output"/>
