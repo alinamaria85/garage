@@ -10,4 +10,9 @@
     <output href="outout-webhelp"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="new-23" name="new">
+    <context idref="garage"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
