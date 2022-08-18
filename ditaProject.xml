@@ -25,11 +25,6 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
-  <deliverable id="new-28" name="new">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
   <deliverable id="new_deliverable-29" name="new deliverable">
     <context idref="garage"/>
     <output href="webhelp-output"/>
