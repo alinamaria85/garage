@@ -35,9 +35,4 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
-  <deliverable id="abcdef-40" name="abcdef">
-    <context idref="garage"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
 </project>
