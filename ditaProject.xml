@@ -40,7 +40,7 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
-  <deliverable id="test-50" name="test">
+  <deliverable id="test-50" name="test2">
     <context idref="garage"/>
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
