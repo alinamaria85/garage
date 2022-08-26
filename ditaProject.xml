@@ -45,4 +45,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="Garage_to_PDF-51" name="Garage to PDF">
+    <context idref="garage"/>
+    <output href="pdf-output"/>
+    <publication idref="pdf"/>
+  </deliverable>
 </project>
