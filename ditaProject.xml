@@ -50,4 +50,9 @@
     <output href="pdf-output"/>
     <publication idref="pdf"/>
   </deliverable>
+  <deliverable id="Garage_to_WbHelp-52" name="Garage to WbHelp">
+    <context idref="garage"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
