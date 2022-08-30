@@ -65,4 +65,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="Garage_to_Webhelp-1" name="Garage to Webhelp">
+    <context idref="garage"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
