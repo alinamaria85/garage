@@ -7,7 +7,7 @@
     <publication id="pdf" transtype="pdf-css-html5"/>
     <deliverable id="testDeliverable" name="test deliverable">
         <context idref="garage"/>
-        <output href="outout-webhelp"/>
+        <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Garage_deliverable-3" name="Garage deliverable">
