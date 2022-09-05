@@ -5,57 +5,57 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="test_deliverable-13" name="test deliverable">
+    <deliverable id="test_deliverable-18" name="test deliverable">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage_deliverable-14" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-19" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="testDeliverable-15" name="testDeliverable">
+    <deliverable id="testDeliverable-20" name="testDeliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="testDeliverable212-16" name="testDeliverable212">
+    <deliverable id="testDeliverable212-21" name="testDeliverable212">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test-17" name="test">
+    <deliverable id="test-22" name="test">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="test2-18" name="test2">
+    <deliverable id="test2-23" name="test2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test2-19" name="test2">
+    <deliverable id="test2-29" name="test2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test2-20" name="test2">
+    <deliverable id="test2-25" name="test2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage_to_PDF-21" name="Garage to PDF">
+    <deliverable id="Garage_to_PDF-26" name="Garage to PDF">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Garage_to_WebHelp-22" name="Garage to WebHelp">
+    <deliverable id="Garage_to_WebHelp-27" name="Garage to WebHelp">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test-23" name="test">
+    <deliverable id="test-28" name="test">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
@@ -65,7 +65,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage_to_WebHelp-25" name="Garage to WebHelp">
+    <deliverable id="Garage_to_WebHelp-30" name="Garage to WebHelp">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
