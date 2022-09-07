@@ -5,87 +5,87 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="test_deliverable-26" name="test deliverable">
+    <deliverable id="test_deliverable-23" name="test deliverable">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage_deliverable-27" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-24" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="testDeliverable-28" name="testDeliverable">
+    <deliverable id="testDeliverable-25" name="testDeliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="testDeliverable212-29" name="testDeliverable212">
+    <deliverable id="testDeliverable212-26" name="testDeliverable212">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test-36" name="test">
+    <deliverable id="test-27" name="test">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test2-37" name="test2">
+    <deliverable id="test2-28" name="test2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test2-32" name="test2">
+    <deliverable id="test2-29" name="test2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test2-33" name="test2">
+    <deliverable id="test2-30" name="test2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage_to_PDF-34" name="Garage to PDF">
+    <deliverable id="Garage_to_PDF-31" name="Garage to PDF">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Garage_to_WebHelp-32" name="Garage to WebHelp">
+        <context idref="garage"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="test-33" name="test">
+        <context idref="garage"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="test2-34" name="test2">
+        <context idref="garage"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Garage_to_WebHelp-35" name="Garage to WebHelp">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test-30" name="test">
+    <deliverable id="Garage_deliverable-36" name="Garage deliverable">
         <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="test2-31" name="test2">
+    <deliverable id="Garage_deliverable-37" name="Garage deliverable">
         <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Garage_to_WebHelp-38" name="Garage to WebHelp">
+    <deliverable id="Garage_deliverable-38" name="Garage deliverable">
         <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="Garage_deliverable-39" name="Garage deliverable">
-        <context idref="garage"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Garage_deliverable-40" name="Garage deliverable">
-        <context idref="garage"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Garage_deliverable-41" name="Garage deliverable">
-        <context idref="garage"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Garage_deliverable-3" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
