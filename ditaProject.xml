@@ -5,27 +5,27 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Garage_deliverable-2" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-65" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="a-51" name="a">
+    <deliverable id="a-66" name="a">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="sssdd-52" name="sssdd">
+    <deliverable id="sssdd-67" name="sssdd">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="dsdsds-53" name="dsdsds">
+    <deliverable id="dsdsds-68" name="dsdsds">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="dd-54" name="dd">
+    <deliverable id="dd-69" name="dd">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
