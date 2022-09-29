@@ -15,11 +15,6 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="sssdd-64" name="sssdd">
-        <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="dsdsds-65" name="dsdsds">
         <context idref="garage"/>
         <output href="webhelp-output"/>
