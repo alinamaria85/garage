@@ -10,9 +10,4 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="dsdsds-65" name="dsdsds">
-        <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
 </project>
