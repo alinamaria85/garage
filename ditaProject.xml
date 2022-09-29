@@ -12,7 +12,7 @@
     </deliverable>
     <deliverable id="Garage_to_webhelp-74" name="Garage to webhelp">
         <context idref="garage"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
 </project>
