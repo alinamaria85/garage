@@ -30,11 +30,6 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Garage_deliverable-125" name="Garage deliverable">
-        <context idref="garage"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
     <deliverable id="Garage_deliverable-135" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
