@@ -10,11 +10,6 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="tesst-154" name="tesst">
-        <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="scscc-155" name="scscc">
         <context idref="garage"/>
         <output href="webhelp-output"/>
