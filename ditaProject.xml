@@ -15,11 +15,6 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage-171" name="Garage">
-        <context idref="garage"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="aaa-172" name="aaa">
         <context idref="garage"/>
         <output href="webhelp-output"/>
