@@ -5,32 +5,32 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Garage_deliverable-158" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-160" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="test-159" name="test">
+    <deliverable id="test-161" name="test">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="testDeliverable2-160" name="testDeliverable2">
+    <deliverable id="testDeliverable2-162" name="testDeliverable2">
         <context idref="garage"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Garage_deliverable-161" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-163" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Garage_deliverable-162" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-164" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Garage_deliverable-2" name="Garage deliverable">
+    <deliverable id="Garage_deliverable-165" name="Garage deliverable">
         <context idref="garage"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
