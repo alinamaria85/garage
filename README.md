@@ -1,2 +1,2 @@
 # garage
-Garage sample updated
+Garage sample.
