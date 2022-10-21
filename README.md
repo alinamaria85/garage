@@ -1,4 +1,3 @@
 # garage
 Garage sample.
 
-aaaaa
