@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
-  <deliverable id="Garage_deliverable-1" name="Garage deliverable">
     <context id="garage_context" name="Garage context">
-      <input href="garage.ditamap"/>
+        <input href="garage.ditamap"/>
     </context>
-    <output href="webhelp-output"/>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-  </deliverable>
+    <deliverable id="Garage_deliverable-1670423091856" name="Garage deliverable">
+        <context idref="garage_context"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp" transtype="webhelp-responsive"/>
+    </deliverable>
 </project>
